@@ -13,7 +13,7 @@
 **ArchiMate 3.0 Crash Course**
 https://www.udemy.com/archimate-3-crash-course/
 
-**BiZZdesign Blog**
+**BiZZdesign Blog - Archimate**
 http://blog.bizzdesign.com/topic/archimate
 
 **Enterprise architecture in the age of cloud services**
